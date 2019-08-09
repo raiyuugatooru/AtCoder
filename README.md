@@ -1,0 +1,2 @@
+# AtCoder
+MAKE HASTE SLOWLY. PLEASE.
