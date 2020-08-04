@@ -1,2 +1,2 @@
 # AtCoder
-MAKE HASTE SLOWLY. PLEASE.
+Where are you going in such a hurry?
